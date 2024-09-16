@@ -1,0 +1,2 @@
+# ASUS-UX303UA-EFI
+ ASUS-UX303UA-EFI for macos ventura 13.6.9
